@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bin TENG\'s App</string>
+    <string name="textView_text">My First Android app.</string>
+</resources>
